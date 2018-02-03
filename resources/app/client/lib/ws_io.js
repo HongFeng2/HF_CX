@@ -11,11 +11,12 @@ io.on = function(key, fn){
 };
 io.emit = function(send){
     if(!io.ws) Log("io.ws没有");
+    Log("ws发送", send);
     io.ws.send(send);
 };
 
 ws_io.on('connection', function(ws) {
-    Log("connection wss", ws);
+    Log("IO连接成功");
 
     io.ws = ws;
 
@@ -28,6 +29,10 @@ ws_io.on('connection', function(ws) {
             io.run[rs[0]](rs);
         }else Log("响应函数没有定义，run-key没有" , io.run);
 
+    });
+
+    ws.on('close', function() {
+        Log("断开连接");
     });
 
 });

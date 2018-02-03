@@ -253,10 +253,11 @@ function twinkle_t4(){
 
 
 function Emit(val){
-    // if(IO.emit){
-    //     console.log(val.toString(16));
-    //     IO.emit({type:"emit", key:"io", val:"0x"+val.toString(16), to:"comNear", id:"ZX", room:"room"});
-    // }
+    if(io.ws){
+        val = val.toString(16);
+        if(val<10) val = "0"+val;
+        io.emit(val);
+    }
 
 }
 
