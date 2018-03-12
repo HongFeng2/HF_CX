@@ -105,7 +105,7 @@ function Page1(){
     p.velocity({scale: [1, 0.32], top:0, left:0, opacity:1}, {easing:"easeInOutSine", duration: 1000 });
 
     $$("#pageBG").show().velocity({opacity: 1}, { duration: 500 });
-    p.find(".tit").css({left:-600}).show().velocity({left:[219, -600]}, { delay:500, easing:[200, 20], duration: 1000 });
+    p.find(".tit").css({left:-600}).show().velocity({left:[395, -600]}, { delay:500, easing:[200, 20], duration: 1000 });
     p.find(".w").css({left:-1600}).show().velocity({left:[219, -600]}, { delay:700, easing:[200, 20], duration: 1000 });
 
 }
@@ -120,7 +120,7 @@ function Page2(){
     p.velocity({scale: [1, 0.71], top:0, left:0, opacity:1}, {easing:"easeInOutSine", duration: 1000 });
 
     $$("#pageBG").show().velocity({opacity: 1}, { duration: 500 });
-    p.find(".tit").css({left:-600}).show().velocity({left:[219, -600]}, { delay:500, easing:[200, 20], duration: 1000 });
+    p.find(".tit").css({left:-600}).show().velocity({left:[395, -600]}, { delay:500, easing:[200, 20], duration: 1000 });
     p.find(".w").css({left:-1600}).show().velocity({left:[219, -600]}, { delay:700, easing:[200, 20], duration: 1000 });
 }
 
@@ -134,7 +134,7 @@ function Page3(){
     p.velocity({scale: [1, 0.89], top:0, left:0, opacity:1}, {easing:"easeInOutSine", duration: 700 });
 
     $$("#pageBG").show().velocity({opacity: 1}, { duration: 500 });
-    p.find(".tit").css({left:-600}).show().velocity({left:[219, -600]}, { delay:500, easing:[200, 20], duration: 1000 });
+    p.find(".tit").css({left:-600}).show().velocity({left:[395, -600]}, { delay:500, easing:[200, 20], duration: 1000 });
     p.find(".w").css({left:-1600}).show().velocity({left:[219, -600]}, { delay:700, easing:[200, 20], duration: 1000 });
 }
 

@@ -5,7 +5,7 @@ createjs.Sound.registerSound("../../assets/mp3/cls.mp3", "mp3_click");
 createjs.Sound.registerSound("../../assets/mp3/come.wav", "mp3_come");
 
 function mp3_play(key){
-    createjs.Sound.play("mp3_"+key);
+    // createjs.Sound.play("mp3_"+key);
 }
 function mp3_stop(key){
     if(!key) createjs.Sound.stop();

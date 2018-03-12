@@ -160,10 +160,11 @@ function showPot2(){
     map_stop();
     hide_pic(2);
     $$("#pot .m2").velocity({opacity: 1}, { duration: 600 });
-    showPic("#c2_1", 366, 182, 670, 330, 300);
-    showPic("#c2_2", 568, 182, 670, 330, 400);
-    showPic("#c2_3", 770, 182, 670, 330, 500);
-    showPic("#c2_4", 972, 182, 670, 330, 600);
+    showPic("#c2_1", 250, 159, 670, 330, 300);
+    showPic("#c2_2", 452, 159, 670, 330, 400);
+    showPic("#c2_3", 654, 159, 670, 330, 500);
+    showPic("#c2_4", 856, 159, 670, 330, 600);
+    showPic("#c2_5", 1057, 159, 670, 330, 700);
 }
 function showPot3(){
 
@@ -172,10 +173,10 @@ function showPot3(){
     map_stop();
     hide_pic(3);
     $$("#pot .m3").velocity({opacity: 1}, { duration: 600 });
-    // showPic("#c3_1", 366, 182, 670, 330, 300);
-    showPic("#c3_2", 464, 182, 670, 330, 300);
-    showPic("#c3_3", 666, 182, 670, 330, 400);
-    showPic("#c3_4", 868, 182, 670, 330, 500);
+    showPic("#c3_1", 468, 149, 670, 330, 300);
+    showPic("#c3_2", 669, 149, 670, 330, 300);
+    showPic("#c3_3", 871, 149, 670, 330, 400);
+    // showPic("#c3_4", 868, 182, 670, 330, 500);
 }
 function showPot4(){
 
@@ -184,7 +185,7 @@ function showPot4(){
     map_stop();
     hide_pic(4);
     $$("#pot .m4").velocity({opacity: 1}, { duration: 600 });
-    showPic("#c4_1", 264, 179, 114, 180);
+    showPic("#c4_1", 264, 182, 114, 180);
     showPic("#c4_2", 1300, 279, 1441, 280);
 }
 function showPic(id, x, y, cx, cy, r){
