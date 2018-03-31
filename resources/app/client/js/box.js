@@ -8,8 +8,11 @@ Room.Box.dom = function(){
             mp3_play("come");
             var _this = $(this);
             var id = _this.attr("id");
+
             $$("#box_"+id).css({opacity:0}).show().velocity({ opacity: [1,0] }, 1000);
             $$("#box_"+id).find(".box").css({opacity:0}).show().velocity({ opacity: [1,0], scale:[1,0] }, 800);
+            Dom.BoxSwiper[id].update();
+            Dom.BoxSwiper[id].slideTo(0, 0, false);
         })
     });
 

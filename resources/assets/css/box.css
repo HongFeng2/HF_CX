@@ -21,7 +21,7 @@
     display: none;
 }
 ._box .pic{
-    position: absolute; left: 120px; top: 155px;
+    position: absolute; left: 120px; top: 175px;
     width: 368px; height: 240px;
     border: 1px solid #48b2ff;
 }
@@ -32,12 +32,38 @@
     text-align: center;
 }
 ._box .tit{
-    position: absolute; left: 528px; top: 154px;
-    width: 490px; height: 80px;
+    position: absolute; left: 0px; top: 90px;
+    width: 100%; height: 80px; text-align: center;
     font-size: 24px; color: #52ddf6;
 }
+._box .tit_en{
+    position: absolute; left: 0px; top: 125px;
+    width: 100%; height: 80px; text-align: center;
+    font-size: 14px; color: #52ddf6;
+}
+._box .swiper-container{
+    position: absolute; left: 528px; top: 170px;
+    width: 476px; height: 290px;
+    font-size: 17px; color: #52ddf6;
+    overflow: hidden;
+}
 ._box .info{
-    position: absolute; left: 528px; top: 205px;
-    width: 476px; height: 210px;
-    font-size: 21px; color: #52ddf6;
+    line-height: 33px; text-align:justify
+}
+._box .info_en{
+    line-height: 33px; font-size: 16px; text-align:justify
+}
+
+._box .swiper-slide {
+    height: auto;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding-right: 50px;
+}
+
+._box .swiper-scrollbar{
+    background: rgba(255, 255, 255, 0.1);
+}
+._box .swiper-scrollbar-drag{
+    background: rgba(255, 255, 255, 0.5);
 }

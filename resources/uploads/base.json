@@ -6,55 +6,75 @@
 
     "box_c2_1": {
         "tit":"浙江省宏丰功能性复合材料重点企业研究院",
-        "info":"<p>&nbsp; &nbsp; &nbsp; &nbsp;浙江省宏丰功能性复合材料重点企业研究院依托于温州宏丰电工合金股份有限公司，成立于2010年1月；2013年10月被浙江省科技厅列入省级企业研究院建设计划；2016年11月获浙江省科技厅批准列入省级重点企业研究院，正式更名为“浙江省宏丰功能性复合材料重点企业研究院”。</p>",
+        "tit_en":"Zhejiang Hongfeng Key Enterprise Institute of Functional Composite Materials",
+        "info":"<p>&nbsp; &nbsp; &nbsp; &nbsp;浙江省宏丰功能性复合材料重点企业研究院依托于温州宏丰电工合金股份有限公司，2010年1月在高新技术企业研发中心及企业技术中心的基础上成立,2016年11月获浙江省科技厅批准列入省级重点企业研究院</p><p>&nbsp; &nbsp; &nbsp; &nbsp;研究院从“推进电工合金材料行业跨跃式发展的战略”出发，以行业共性和关键性技术问题为切入点，以技术进步和技术含量提升为突破口，重点开展面向低压电器、半导体、微型电子元件、轨道交通、航空航天等应用领域，开展层状功能电接触复合材料、环保节约型电接触复合材料、高性能电接触复合材料等研发及产业化工作，为产业振兴和行业可持续发展提供坚实的技术支持和理论支撑。</p>",
+        "info_en":"<p>&nbsp; &nbsp; &nbsp; &nbsp;Zhejiang Hongfeng Key Enterprise Institute of Functional Composite Materials is supported by Wenzhou Hongfeng Electrical Alloy Co.,Ltd, which was based on Enterprise High-tech R&D Center and Enterprise Technology Center in January 2010 and won the honorary title of “Provincial-level Key Enterprise Institute” from Science Technology Department of Zhejiang Province in November 2016.</p><p>&nbsp; &nbsp; &nbsp; &nbsp;Based on the strategy which is promoting leapfrog development in alloy materials of electric industry, in terms of common and key problems of the industry, and taking technical progress as breakthrough points, the institute focuses on the research, development and industrialization of functional layered, environmental and energy saving, high-performance electrical contact composite materials applied in low voltage device, semiconductor, microelectronic component, rail transit, aerospace, and other fields, providing solid technical and theoretical support for industrial revitalization and industry sustainable development.</p>",
         "com":"温州"
     },
     "box_c2_2": {
         "tit":"CNAS国家认可实验室",
+        "tit_en":"Testing Center of Wenzhou Hongfeng Electrical Alloy Co., Ltd.",
         "info":"<p>&nbsp; &nbsp; &nbsp; &nbsp;CNAS国家认可实验室始建于1997年,于2012年扩建,成为国内同行中检测设施完善的材料测试基地;并于2014年获得由中国合格评定国家认可委员会颁发的ISO/IEC 17025:2005体系认可证书(CNAS L7084)。</p>",
+        "info_en":"<p>&nbsp; &nbsp; &nbsp; &nbsp;Testing Center of Wenzhou Hongfeng Electrical Alloy Co., Ltd. was founded in 1997 and enlarged in 2012. It is a fully-equipped base for materials testing in new materials industry in the country. And the laboratory obtained Accreditation Certificate (Registration No. is CNAS L7084) in accordance with ISO/IEC 17025:2005, which issued by China National Accreditation Service for Conformity Assessment in 2014.</p>",
         "com":"温州"
     },
     "box_c2_3": {
         "tit":"低压电器试验站",
-        "info":"<p>&nbsp; &nbsp; &nbsp; &nbsp;低压电器试验站始建于2010年，于2013年扩建，试验站总面积达500多平方米，投资1000多万元，测试项目覆盖高、低压电器产品的通断、寿命、温升、特性等检测，为材料的研发、产品验证提供支持。</p>",
+        "tit_en":"Low-voltage Electrical Testing Station",
+        "info":"<p>&nbsp; &nbsp; &nbsp; &nbsp;低压电器试验站主要从事断路器、交流接触器、家用及类似场所用过电流保护断路器、控制电路电器和开关元件等电器产品的检测工作。可以进行电器的短路、通断、寿命、温升、特性等检验。检测能力可达到国家标准、行业标准、国际电工委员会（IEC）等标准的要求。</p>",
+        "info_en":"<p>&nbsp; &nbsp; &nbsp; &nbsp;Low-voltage Electrical Testing Station mainly engages in circuit breakers, AC contactors, home and current protection circuit breakers for household and similar sites, control circuit electrical appliances, switching components and other electrical products testing. It can be electrical short-circuit, on-off, life expectancy, temperature rise, and other characteristics of the test. Detection capabilities can reach the national standards, industry standards, the International Electrotechnical Commission (IEC) and other standards.</p>",
         "com":"温州"
     },
     "box_c2_4": {
-        "tit":"温州宏丰纳米电接触功能复合材料研发中心",
+        "tit":"浙江大学-温州宏丰纳米电接触功能复合材料研发中心",
+        "tit_en":"Zhejiang University-Wenzhou Hongfeng Nano Functional Composite Electrical Contact Materials R&D Centre",
         "info":"<p>&nbsp; &nbsp; &nbsp; &nbsp;浙江大学-温州宏丰纳米电接触功能复合材料研发中心，成立于2010年12月，是浙江大学浙江加州国际纳米技术研究院与温州宏丰电工合金股份有限公司成立的电接触复合材料研究基地，中心结合企业在电接触功能复合材料方面的研发需求，充分依托研究院在人才资源、设施装备和科研基础等方面的优势，为企业开发新材料、新工艺、新技术、新产品提供全方位技术支持。</p>",
-        "com":"杭州-浙江大学"
+        "info_en":"<p>&nbsp; &nbsp; &nbsp; &nbsp;Zhejiang University-Wenzhou Hongfeng Nano Functional Composite Electrical Contact Materials R&D Centre, founded in Dec., 2010. It was a research base study on composite electrical contact and co-founded by Zhejiang University, Zhejiang California International Nanotechnology Research Institute and Wenzhou Hongfeng Electrical Alloy Co., Ltd. The centre bases on the company’s R&D requirements in functional composite electrical contacts, sufficiently rely on the advantage on human resources, equipments and scientific research to provide full range of technical supports in developing new materials, new technologies and new products for company.</p>",
+        "com":"杭州"
+    },
+    "box_c2_5": {
+        "tit":"硬质合金实验室",
+        "tit_en":"The Laboratory of Cemented Carbide",
+        "info":"<p>&nbsp; &nbsp; &nbsp; &nbsp;2017年建成，拥有ICP、扫描电镜、金相显微镜等实验与检测设备，实验室围绕硬质合金行业发展中急需解决的问题，在硬质合金材料设计、制造与使用等领域开展基础理论和应用技术研究。</p>",
+        "info_en":"<p>&nbsp; &nbsp; &nbsp; &nbsp;The laboratory was built in 2017, equipped with ICP, scanning electron microscope, metallographic microscope and other testing equipment. The laboratory revolves around the problems to be solved in the development of cemented carbide industry, and carries out basic theory and applied technology research in the field of cemented carbide material designing, manufacturing and application.</p>",
+        "com":"温州"
     },
 
     "box_c3_1": {
-        "tit":"温州宏丰电工合金股份有限公司",
-        "info":"<p>&nbsp; &nbsp; &nbsp; &nbsp;温州宏丰电工合金股份有限公司成立于1997年9月，位于浙江省乐清市北白象镇大桥工业区塘下片区，占地11.6亩，专业从事电接触功能复合材料及组件的研发、生产、销售和技术服务。</p>",
-        "com":"浙江省乐清市北白象镇大桥工业区塘下片区"
-    },
-    "box_c3_2": {
         "tit":"温州宏丰特种材料有限公司",
-        "info":"<p>&nbsp; &nbsp; &nbsp; &nbsp;温州宏丰特种材料有限公司成立于2012年8月，位于温州瓯江口产业集聚区瓯锦大道5600号，建筑规模16万平方，通过整合，将成为行业内最具规模的电接触功能复合材料及组件的研发、生产基地。</p>",
+        "tit_en":"Wenzhou Hongfeng Special Materials Co., Ltd.",
+        "info":"<p>&nbsp; &nbsp; &nbsp; &nbsp;温州宏丰特种材料有限公司成立于2012年8月，位于温州瓯江口产业集聚区瓯锦大道5600号，建筑规模17万平方，通过整合，将成为行业内最具规模的电接触功能复合材料及组件的研发、生产基地。</p>",
+        "info_en":"<p>&nbsp; &nbsp; &nbsp; &nbsp;Wenzhou Hongfeng Special Materials Co., Ltd. was founded in August 2012. It is located in No.5600, Oujiangkou Industry Cluster, Wenzhou. Its building scale is 170,000 square meters, and it will become the largest R&D and production base of functional electrical contact composite materials and components in the new materials industry after integration.</p>",
         "com":"温州市瓯江口产业集聚区瓯锦大道5600号"
     },
-    "box_c3_3": {
+    "box_c3_2": {
         "tit":"温州宏丰合金有限公司",
-        "info":"<p>&nbsp; &nbsp; &nbsp; &nbsp;温州宏丰合金有限公司成立于2008年12月，位于温州经济技术开发区滨海一道1633号，建筑规模4万平方，公司多年来始终专注于发展，未来将成为专业的粉末冶金研发、生产基地。</p>",
+        "tit_en":"Wenzhou Hongfeng Alloy Co., Ltd.",
+        "info":"<p>&nbsp; &nbsp; &nbsp; &nbsp;温州宏丰合金有限公司成立于2008年12月，位于温州经济技术开发区滨海一道1633号，建筑规模4万平方，专业研究开发、生产各类硬质合金毛坯品和深加工产品，产品广泛应用于机械加工、电子、航空、采掘、化工等行业。</p>",
+        "info_en":"<p>&nbsp; &nbsp; &nbsp; &nbsp;Wenzhou Hongfeng Alloy Co., Ltd. was founded in Dec., 2008. It is located in No. 1633, Binhai 1st avenue, Wenzhou economic and technical development zone, Wenzhou. Its building scale is 40,000 square meters. It specializes in R&D and produces all kinds cemented carbide blanks and further processed products. The products are widely used in machinery processing, electronic, aerospace industry, excavating and chemical engineering etc.</p>",
         "com":"温州经济技术开发区滨海一道1633号"
     },
-    "box_c3_4": {
+    "box_c3_3": {
         "tit":"温州宏丰金属基功能复合材料有限公司",
+        "tit_en":"Wenzhou Hongfeng Metal-matrix Engineered Composite Material Co., Ltd.",
         "info":"<p>&nbsp; &nbsp; &nbsp; &nbsp;温州宏丰金属基功能复合材料有限公司成立于2012年5月，位于温州经济技术开发区滨海九路808号，建筑规模5万平方，是国内领先的热双金属材料及元器件研发、生产基地。</p>",
+        "info_en":"<p>&nbsp; &nbsp; &nbsp; &nbsp;Wenzhou Hongfeng Metal-matrix Engineered Composite Material Co., Ltd. was founded in May 2012. It is located in No. 808, Binhai 2nd avenue, 9th road, Wenzhou economic and technical development zone. Its building scale is 50,000 square meters, and it is the leading R&D and production base in thermal bimetal and components in China.</p>",
         "com":"温州经济技术开发区滨海九路808号"
     },
 
     "box_c4_1": {
         "tit":"宏丰电工材料（德国）有限公司",
-        "info":"<p>&nbsp; &nbsp; &nbsp; &nbsp;宏丰电工材料（德国）有限公司于2016年在德国成功注册登记，是温州宏丰电工合金股份有限公司（股票简称：温州宏丰，股票代码：300283）的境外全资子公司，主要职能为电接触材料、电器配件组件、热控复合材料和金属材料的市场推广、销售、进出口、研发及售后服务。</p>",
+        "tit_en":"Hongfeng Elektrowerkstoffe GmbH(Germany)",
+        "info":"<p>&nbsp; &nbsp; &nbsp; &nbsp;宏丰电工材料（德国）有限责任公司于2016年在德国成功注册登记，是温州宏丰电工合金股份有限公司的境外全资子公司，从事电接触复合材料、金属基功能复合材料及硬质合金材料的市场推广、研发及售后服务。</p>",
+        "info_en":"<p>&nbsp; &nbsp; &nbsp; &nbsp;Hongfeng Elektrowerkstoffe GmbH(Germany) established in Germany in 2016, is an oversea company which only owned by Wenzhou Hongfeng electrical alloy Limited, engaged in electrical contact with the metal matrix composite materials, functional composites and hard alloy material research and development and marketing, customer service.</p>",
         "com":"德国"
     },
     "box_c4_2": {
-        "tit":"美国洛杉矶子公司",
-        "info":"<p>&nbsp; &nbsp; &nbsp; &nbsp;筹建中。</p>",
-        "com":"美国洛杉矶"
+        "tit":"宏丰复合材料公司（美国）",
+        "tit_en":"Hongfeng Composite Materials Corp.(USA)",
+        "info":"<p>&nbsp; &nbsp; &nbsp; &nbsp;宏丰复合材料公司（美国）于2017年在美国成功注册登记，是温州宏丰电工合金股份有限公司的境外全资子公司，主要从事电接触复合材料、金属基功能复合材料及硬质合金材料的市场推广、研发及售后服务。</p>",
+        "info_en":"<p>&nbsp; &nbsp; &nbsp; &nbsp;Hongfeng Composite Materials Corp.(USA) established in U.S.A in 2017, is an oversea company which only owned by Wenzhou Hongfeng electrical alloy Limited, engaged in electrical contact with the metal matrix composite materials, functional composites and hard alloy material research and development and marketing, customer service.</p>",
+        "com":"美国"
     },
     "download_finish": 1
 }
